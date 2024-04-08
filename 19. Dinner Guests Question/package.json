@@ -1,0 +1,12 @@
+{
+  "name": "tyescript and node.js 45 assignment",
+  "version": "1.0.0",
+  "description": "in this typescript file we all 45 assignment of governor sindh it initative program",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "M.Irfan: (Roll No: 00340019)",
+  "license": "ISC"
+}
